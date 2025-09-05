@@ -1,0 +1,14 @@
+intervals:
+  cpu: 2s
+  ram: 3s
+  disk: 5s
+  network: 5s
+
+history:
+  size: 100
+  
+# in percentages
+alerts:
+  cpu: 80   
+  ram: 75
+  disk: 90
